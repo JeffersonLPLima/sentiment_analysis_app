@@ -1,0 +1,8 @@
+streamlit
+cython
+emoji==1.2.0
+Unidecode==1.2.0
+numpy
+scikit-learn
+scipy==1.5.4
+pandas
