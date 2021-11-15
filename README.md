@@ -15,10 +15,15 @@ report on test:  precision    recall  f1-score   support
 weighted avg       0.78      0.78      0.78    368135
 
 ```
+
 # Files:
+
 `classifier.py`: Train and generate sentiment analyzer model
+
 `preprocessing.py`: Preprocess all data used to train model and preprocess the new messages during inference mode
+
 `app.py` : A simple app by [Streamlit](https://streamlit.io/)
+
 `./data/`:  all data files used to train the classifier (could be downloaded [here](https://www.kaggle.com/kazanova/sentiment140))
 
 
