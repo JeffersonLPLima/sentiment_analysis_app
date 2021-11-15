@@ -1,6 +1,7 @@
 # Sentiment Analysis app!
 
 Classifier - [Naive Bayes (Complement)](https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.ComplementNB.html)
+
 Vectorizer - [TF-IDF](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html)
 ```
 score on train: 0.9086
